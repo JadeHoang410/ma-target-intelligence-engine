@@ -38,7 +38,7 @@ The script prints the rankings, tiers, and sensitivity analysis to the console, 
 
 ## What I learned
 
-I built this in three days as my final project for Stanford Code in Place, coming in with no prior programming background. Beyond the Python fundamentals, the real lesson was in translation: turning a strategic question into measurable criteria, handling data that rarely arrives clean, and being honest about what a model can and can't see. The hardest and most valuable part wasn't writing the code — it was deciding what the code should measure and being able to defend those choices.
+I built this as my final project for Stanford Code in Place 2026, coming in with no prior programming background. Beyond the Python fundamentals, the real lesson was in translation: turning a strategic question into measurable criteria, handling data that rarely arrives clean, and being honest about what a model can and can't see. The hardest and most valuable part wasn't writing the code, but what the code should measure and being able to defend those choices.
 
 ---
 
